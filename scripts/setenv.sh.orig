@@ -1,0 +1,3 @@
+export sc_username=to-be-set
+export sc_password=to-be-set
+export sc_url=https://to-set-set.socialcast.com/api

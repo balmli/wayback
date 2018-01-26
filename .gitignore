@@ -1,0 +1,12 @@
+target
+.idea
+*.iml
+build/
+node_modules/
+npm-debug.log
+.DS_Store
+.#*
+node/
+elastic/
+scripts/download
+setenv.sh
